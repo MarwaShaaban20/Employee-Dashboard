@@ -12,3 +12,5 @@ This project showcases an **interactive Power BI dashboard** designed to analyze
 6. **Filters**: Allows filtering data by country and center for more focused analysis.
 7. **Job Rate and Leaves Analysis**: Analyzes job rates, sick leaves, unpaid leaves, and overtime hours.
 
+
+![Screenshot (870)](https://github.com/user-attachments/assets/4d9f22d3-935a-47bf-a21e-02061e56d0d7)
